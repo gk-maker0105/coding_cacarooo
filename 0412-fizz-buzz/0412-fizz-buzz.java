@@ -1,27 +1,26 @@
 class Solution {
     public List<String> fizzBuzz(int n) {
-        
-        List<String> ans=new ArrayList<>();
+
+        ArrayList<String> list1=new ArrayList<String>();
+
+
         for(int i=1;i<=n;i++){
             if(i%3==0 && i%5==0){
-                ans.add("FizzBuzz");
-
+                list1.add("FizzBuzz");
             }
-            else if(i%3==0){
-                ans.add("Fizz");
-
+            else if(i%3==0 && i%5!=0){
+                list1.add("Fizz");
             }
-            else if(i%5==0){
-                ans.add("Buzz");
-
+            else if (i%5==0 && i%3!=0){
+                list1.add("Buzz");
             }
             else{
-                ans.add(Integer.toString(i));
-
+                list1.add(Integer.toString(i));
             }
-
         }
-        return ans;
+        return list1;
+
+
         
     }
 }
