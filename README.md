@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gk-maker0105/coding_cacarooo/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/gk-maker0105/coding_cacarooo/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gk-maker0105/coding_cacarooo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1480-running-sum-of-1d-array](https://github.com/gk-maker0105/coding_cacarooo/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/gk-maker0105/coding_cacarooo/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
@@ -56,4 +57,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gk-maker0105/coding_cacarooo/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gk-maker0105/coding_cacarooo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
