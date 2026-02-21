@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/gk-maker0105/coding_cacarooo/tree/master/0009-palindrome-number) |
+| [0367-valid-perfect-square](https://github.com/gk-maker0105/coding_cacarooo/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/gk-maker0105/coding_cacarooo/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gk-maker0105/coding_cacarooo/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/gk-maker0105/coding_cacarooo/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gk-maker0105/coding_cacarooo/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/gk-maker0105/coding_cacarooo/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
