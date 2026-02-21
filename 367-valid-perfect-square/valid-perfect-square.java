@@ -2,26 +2,29 @@ class Solution {
     public boolean isPerfectSquare(int num) {
 
 
-        if(num==1){
-            return true;
-        }
+        long start=1;
 
-        if(num%2==0){
-            for(int i=0;i<=num/4;i++){
-                if(i*i==num/4){
-                    return true;
-                }
-            }
-        }
-        else{
-            int target=num-1;
-            for(int i=0;i<target/4;i++){
-               if((i)*(i+1)==target/4){
+        long end=num;
+
+        
+
+        while(start<=end){
+
+            long mid=start+(end-start)/2;
+
+            if(mid*mid==num){
                 return true;
-               } 
+            }
+
+            if(mid*mid<num){//mid is small
+                start=mid+1;
+            }
+            if(mid*mid>num){//mid is big
+                end=mid-1;
             }
         }
 
         return false;
+        
     }
 }
