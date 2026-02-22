@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gk-maker0105/coding_cacarooo/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/gk-maker0105/coding_cacarooo/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gk-maker0105/coding_cacarooo/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/gk-maker0105/coding_cacarooo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/gk-maker0105/coding_cacarooo/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/gk-maker0105/coding_cacarooo/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/gk-maker0105/coding_cacarooo/tree/master/1480-running-sum-of-1d-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/gk-maker0105/coding_cacarooo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/gk-maker0105/coding_cacarooo/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/gk-maker0105/coding_cacarooo/tree/master/0367-valid-perfect-square) |
 ## Sorting
